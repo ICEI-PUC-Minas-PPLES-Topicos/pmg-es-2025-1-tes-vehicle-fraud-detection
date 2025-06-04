@@ -2,10 +2,6 @@
 
 Repositório destinado ao desenvolvimento e publicação dos experimentos realizados para o estudo de detecção de fraudes em pedidos de seguros automotivos, utilizando técnicas de **Machine Learning**.
 
-Este projeto foi desenvolvido como parte das atividades da disciplina de **Desenvolvimento de Aplicações Distribuídas**, do curso de Ciência da Computação da **PUC Minas**.
-
-## Objetivo
-
 O objetivo deste trabalho é avaliar a eficácia de diferentes modelos de aprendizado de máquina na identificação de fraudes em seguros automotivos, contribuindo para mitigar prejuízos financeiros e melhorar a eficiência operacional de seguradoras.
 
 Foram utilizados os seguintes algoritmos de classificação binária:

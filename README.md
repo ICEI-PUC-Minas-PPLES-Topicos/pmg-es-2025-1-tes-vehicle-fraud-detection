@@ -36,6 +36,8 @@ A avaliação considerou cenários com dados balanceados e desbalanceados (com a
 * Scikit-learn
 * Jupyter Notebook (para desenvolvimento e experimentação)
 
+As bibliotecas externas utilzadas para extração de modelos e algoritmos estão contidas no diretório `códigos/libs/libs.zip`.
+
 ## Instruções de Uso
 
 1. Clone este repositório
